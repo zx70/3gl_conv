@@ -1,6 +1,9 @@
 This is a program I wrote long time ago in Visual Basic 3, it can be easily converted to earlier VB versions.
 
 Choose the "source" and "destination" languages, and go for the conversion.
-At the moment only the Sinclair BASIC parser is complete, but the converter is modular, and you can extend it by providing your own.
-The converter was successfuly tested to port programs to Turbo Pascal and GW-BASIC.  
+At the moment only the Sinclair BASIC parser is complete, but the converter is modular and can extended by providing your own parser.
+
+Similarly more targed languages can be added, keep in mind that some of the provided ones are not completed.
+By the way, the converter was successfuly tested to port programs to Turbo Pascal and GW-BASIC.  
+
 When an equivalent function is not present, the generated program require a function/procedure which will have to be provided.
