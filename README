@@ -7,3 +7,7 @@ Similarly more targed languages can be added, keep in mind that some of the prov
 By the way, the converter was successfuly tested to port programs to Turbo Pascal and GW-BASIC.  
 
 When an equivalent function is not present, the generated program require a function/procedure which will have to be provided.
+
+
+Enjoy,
+Stefano Bodrato
