@@ -1,6 +1,6 @@
 This is a program I wrote long time ago in Visual Basic 3, it can be easily converted to earlier VB versions.
 
-Choose the "source" and "destination" languages, and go for the conversion.
+Choose the "source" and "destination" languages, and go for the conversion.  Use the "clipboard" button, then paste the result in notepad or somewhere else.
 At the moment only the Sinclair BASIC parser is complete, but the converter is modular and can extended by providing your own parser.
 
 Similarly more targed languages can be added, keep in mind that some of the provided ones are not completed.
